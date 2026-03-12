@@ -3,6 +3,9 @@
 API REST para gerenciamento de clínica veterinária — cadastro de tutores,
 animais, veterinários e agendamento de consultas.
 
+## 🌐 API em produção
+📖 Documentação Swagger: https://clinica-vet-api.up.railway.app/api/docs/
+
 ## 🚀 Tecnologias
 - Python 3 + Django 4.2
 - Django REST Framework
