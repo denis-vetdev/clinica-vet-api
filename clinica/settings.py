@@ -165,3 +165,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:4200',
     'http://localhost:4201',
 ]
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://clinica-vet-api.up.railway.app',
+]
