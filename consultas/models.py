@@ -4,7 +4,7 @@ from veterinarios.models import Veterinario
 
 class Consulta(models.Model):
     STATUS = [
-        ('agenda', 'Agenda'),
+        ('agendada', 'Agendada'),
         ('realizada', 'Realizada'),
         ('cancelada', 'Cancelada'),
     ]
